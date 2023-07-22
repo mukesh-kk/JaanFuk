@@ -1,0 +1,52 @@
+/* scripting language */
+/* tag name  */
+h1{
+    text-align: center;
+    color:cyan
+}
+
+/*  calss  */
+.question{
+
+    color:orange;
+    text-align: center;
+
+}
+
+#button1{
+    border-style: dashed;
+    background-color: greenyellow;
+    color:white;
+  
+
+}
+
+#button2{
+    border-style: dashed;
+    background-color: red;
+    color: white;
+   
+    margin-left: 10px;
+    
+
+}
+.center{
+   display: flex;
+   justify-content: center;
+}
+.width-of-image{
+
+     margin-top: 10px;
+     width:50px;
+    
+}
+.hidden{
+
+    visibility: hidden;
+    
+
+}
+.show{
+   
+    visibility: visible;
+}
